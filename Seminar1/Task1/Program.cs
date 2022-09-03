@@ -26,9 +26,9 @@ else
 
 void Task1_Solution2()
 {
-Console.WriteLine("Введите число 1: ");
+Console.WriteLine("Введите первое число: ");
 int firstNumber = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите число 2: ");
+Console.WriteLine("Введите второе число: ");
 int secondNumber = Convert.ToInt32(Console.ReadLine());
 
 if (firstNumber == Math.Pow(secondNumber, 2))
