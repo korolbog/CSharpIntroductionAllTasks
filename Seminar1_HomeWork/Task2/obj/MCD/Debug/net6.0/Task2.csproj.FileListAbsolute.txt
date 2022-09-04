@@ -1,0 +1,15 @@
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\bin\MCD\Debug\net6.0\Task2.exe
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\bin\MCD\Debug\net6.0\Task2.deps.json
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\bin\MCD\Debug\net6.0\Task2.runtimeconfig.json
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\bin\MCD\Debug\net6.0\Task2.dll
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\bin\MCD\Debug\net6.0\Task2.pdb
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\obj\MCD\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\obj\MCD\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\obj\MCD\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\obj\MCD\Debug\net6.0\Task2.AssemblyInfo.cs
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\obj\MCD\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\obj\MCD\Debug\net6.0\Task2.dll
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\obj\MCD\Debug\net6.0\refint\Task2.dll
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\obj\MCD\Debug\net6.0\Task2.pdb
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\obj\MCD\Debug\net6.0\Task2.genruntimeconfig.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\Все задачи блока Введение в СиШарп\Seminar1_HomeWork\Task2\obj\MCD\Debug\net6.0\ref\Task2.dll
